@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Lokesh SK</h1>
-<h3 align="center">A Passionate Java Developer from India 🇮🇳</h3>
+<h1 align="center">Hi 👋, I'm Lokesh Sheik</h1>
+<h3 align="center">A Passionate Java Developer from India </h3>
 
 ---
 
