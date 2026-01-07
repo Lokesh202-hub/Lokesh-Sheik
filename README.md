@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on **Java & Spring Boot Projects**
 - 💬 Ask me about **Java, Spring Boot, REST APIs**
 - 📫 How to reach me: **[lokeshsheik2002@gmail.com](mailto:lokeshsheik2002@gmail.com)**
-- 📄 Know about my experiences: **[Resume]**
+- 📄 Know about my experiences: Resume
 
 ---
 
